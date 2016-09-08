@@ -23,6 +23,7 @@ Or install it yourself as:
 Example Usage:
 
 AadhaarCheck.valid? 1234 #-> false
+
 AadhaarCheck.valid? 123412341234 #-> true
 
 ## Development
