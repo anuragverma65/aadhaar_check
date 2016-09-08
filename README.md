@@ -1,8 +1,6 @@
 # AadhaarCheck
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/aadhaar_check`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+AadhaarCheck is a gem to validate a given aadhaar number. Aadhar number is generated using Verheoff Algorithm. The first 11 digits are the original numbers while the last one is a checksum.
 
 ## Installation
 
